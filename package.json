@@ -1,0 +1,24 @@
+{
+  "name": "line-flood-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mopinfish/line-flood-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mopinfish/line-flood-bot/issues"
+  },
+  "homepage": "https://github.com/mopinfish/line-flood-bot#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^7.0.0",
+    "express": "^4.17.1"
+  }
+}
