@@ -19,6 +19,7 @@
   "homepage": "https://github.com/mopinfish/line-flood-bot#readme",
   "dependencies": {
     "@line/bot-sdk": "^7.0.0",
+    "bot-express": "^0.7.43",
     "dialogflow": "^1.2.0",
     "express": "^4.17.1"
   }
