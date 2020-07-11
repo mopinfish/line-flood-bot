@@ -19,7 +19,7 @@ module.exports = class SkillHandleDeliveryOrder {
                     }
                 },
                 parser: async (value, bot, event, context) => {
-                    if (["松", "竹", "梅"].includes(value)) {
+                    if (["ラーメン", "うどん", "そば"].includes(value)) {
                         return value;
                     }
 
