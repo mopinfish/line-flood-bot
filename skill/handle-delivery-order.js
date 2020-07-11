@@ -12,9 +12,9 @@ module.exports = class SkillHandleDeliveryOrder {
                         type: "buttons",
                         text: "ご注文は？",
                         actions: [
-                            {type: "message", label: "松", text: "松"},
-                            {type: "message", label: "竹", text: "竹"},
-                            {type: "message", label: "梅", text: "梅"}
+                            {type: "message", label: "ラーメン", text: "ラーメン"},
+                            {type: "message", label: "うどん", text: "うどん"},
+                            {type: "message", label: "そば", text: "そば"}
                         ]
                     }
                 },
